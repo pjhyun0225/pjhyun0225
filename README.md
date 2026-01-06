@@ -14,7 +14,8 @@ I am a problem-solver focused on **optimizing Cloud-native architectures** and *
 
 ## 🛠 Tech Stack
 
-**Cloud & DevOps**
+### Cloud & DevOps
+
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -22,17 +23,19 @@ I am a problem-solver focused on **optimizing Cloud-native architectures** and *
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
-**AI/ML & Backend**
+### AI/ML & Backend
+
 <img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-**Languages**
+### Languages
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-**Database**
+### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ---
