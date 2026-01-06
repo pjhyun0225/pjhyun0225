@@ -7,7 +7,7 @@ I am a problem-solver focused on **optimizing Cloud-native architectures** and *
 
 ## 📚 Education
 
-- **Sungshin Women's University, Computer Engineering**
+- **Sungshin Women's University**
   B.S. in Computer Engineering
 
 ---
