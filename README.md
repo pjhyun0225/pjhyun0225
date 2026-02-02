@@ -29,6 +29,7 @@ I am a problem-solver focused on **optimizing Cloud-native architectures** and *
 - **Cloud Club 8th (2025.08 - 2025.12):** Deep-dived into advanced cloud architectures and best practices.
 - **GDSC SWU Lead (2023 - 2024):** Orchestrated technical roadmaps and empowered members through structural collaboration.
 - **GDSC SWU Core Member (2022 - 2023):** Contributed to technical community growth and peer-to-peer learning.
+- **2025 MADE IN SUNGSHIN - Grand Prize:** Developed a family community platform [GAMO-2025](https://github.com/GAMO-2025).
 
 ---
 
