@@ -9,6 +9,8 @@ I am a problem-solver focused on **optimizing Cloud-native architectures** and *
 
 - **Sungshin Women's University**
   B.S. in Computer Engineering
+- **SKALA (SK AX) – SKALA Cloud Program** (2025.12.29 – 2026.06.25, Expected Completion)
+  Project-based training in cloud technologies, containerization, Kubernetes, DevOps, and team-based service development.
 
 ---
 
