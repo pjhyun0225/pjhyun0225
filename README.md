@@ -35,19 +35,19 @@ I am interested in building practical services with **backend, cloud, and AI tec
 
 ### GDSC SWU Core Member (2022 - 2023, Education Team)
 - Supported chapter operations as part of the education team and assisted the lead in running regular member programs.
-- Prepared and delivered technical education sessions for monthly chapter meetings.
-  (Included technical onboarding topics such as Google technologies, TensorFlow basics, GitHub usage, and competition preparation.)
+- Prepared and delivered **technical education sessions** for monthly chapter meetings.
+  (Included **technical onboarding** topics such as Google technologies, TensorFlow basics, GitHub usage, and competition preparation.)
 
 ### GDSC SWU Lead (2023 - 2024)
-- Prepared and hosted monthly chapter sessions throughout the term, while running two seasonal study programs to maintain member engagement and growth.
-- Planned and executed team building, ideathons, and project showcase events with the core team to support members' project development.
+- Prepared and hosted monthly chapter sessions throughout the term, while running two seasonal study programs to maintain **member engagement and growth**.
+- Planned and executed **team building**, ideathons, and project showcase events with the core team to support members' project development.
 - Supported members' Google Solution Challenge journey by organizing collaboration structures from idea discovery to team formation and final presentations.
-- Co-hosted community events with other GDSC chapters, including hackathons and sessions for women student developers.
+- Co-hosted **community events** with other GDSC chapters, including hackathons and sessions for women student developers.
 - Contributed to the broader GDSC community by participating as staff in external chapter events beyond the university.
 
 ### Cloud Club 8th (2025.08 - 2025.12)
-- Joined a cloud community to deepen self-directed learning and participated in Istio and Terraform study groups.
-- Practiced shared learning by exchanging study insights with peers and expanded cloud perspectives through community events and conferences.
+- Joined a cloud community to deepen **self-directed learning** and participated in Istio and Terraform study groups.
+- Practiced **shared learning** by exchanging study insights with peers and expanded cloud perspectives through community events and conferences.
 
 ---
 
@@ -66,7 +66,7 @@ I am interested in building practical services with **backend, cloud, and AI tec
 - Refined service boundaries and communication flows to reduce unnecessary dependencies and improve domain cohesion.
 - Improved deployment and runtime reliability by troubleshooting container startup order, health checks, and distributed service failures.
 
-**Focus Areas:** Microservice Architecture, Asynchronous Communication, Service Reliability, Cloud-Native Deployment  
+**Focus Areas:** Microservice Architecture, Asynchronous Communication, **Service Reliability**, Cloud-Native Deployment  
 **Tech Stack:** GKE, Kubernetes, Docker, Docker Compose, RabbitMQ, Node.js, Express, MySQL, Nginx Ingress
 
 ### [GAMO-2025/gamo_ai_api](https://github.com/GAMO-2025/gamo_ai_api)
@@ -74,7 +74,7 @@ I am interested in building practical services with **backend, cloud, and AI tec
 - Improved prompt quality with few-shot examples to preserve STT context and generate intent-aligned responses.
 - Improved API reliability by guiding LLM outputs into JSON format and handling markdown/code-block artifacts.
 
-**Focus Areas:** LLM API Integration, Prompt Engineering, STT Post-processing, API Reliability  
+**Focus Areas:** LLM API Integration, **Prompt Engineering**, STT Post-processing, **API Reliability**  
 **Tech Stack:** Gemini API, FastAPI, Python, MySQL, Jenkins, GCP
 
 ### [OnRamp-2026/onramp-api](https://github.com/OnRamp-2026/onramp-api)
@@ -82,7 +82,7 @@ I am interested in building practical services with **backend, cloud, and AI tec
 - Designed SaaS multi-tenant transition with GitOps, namespace isolation, Argo CD Applications, and NetworkPolicy.
 - Implemented tenant-level monitoring dashboard for cost, traffic, quality, and infrastructure health.
 
-**Focus Areas:** AI Service Operations, Multi-Tenant Architecture, GitOps Delivery, Observability, Operational Collaboration  
+**Focus Areas:** AI Service Operations, **Multi-Tenant Architecture**, GitOps Delivery, **Observability**, **Operational Collaboration**  
 **Tech Stack:** AWS EKS, Terraform, Kubernetes, Argo CD, Jenkins, Prometheus, Loki
 
 ---

@@ -35,19 +35,19 @@
 
 ### GDSC SWU Core Member (2022 - 2023, Education Team)
 - 교육팀 소속 운영진으로서 챕터 운영을 지원하고, 리드와 함께 정기 멤버 프로그램 운영을 도왔습니다.
-- 매달 정기 세션에서 기술 교육 세션을 준비하고 발표했습니다.
-  (Google 기술 소개, TensorFlow 기초 사용법, GitHub 사용법, 대회 준비를 위한 기술 온보딩 등을 포함)
+- 매달 정기 세션에서 **기술 교육 세션**을 준비하고 발표했습니다.
+  (Google 기술 소개, TensorFlow 기초 사용법, GitHub 사용법, 대회 준비를 위한 **기술 온보딩** 등을 포함)
 
 ### GDSC SWU Lead (2023 - 2024)
-- 활동 기간 동안 매달 정기 세션을 준비하고 진행했으며, 두 번의 시즌 스터디를 운영하며 챕터 멤버들과의 소통과 성장을 지속했습니다.
-- 멤버들의 프로젝트 개발을 지원하기 위해 운영진과 함께 팀 빌딩, 아이디어톤, 프로젝트 성과 발표 행사를 기획하고 실행했습니다.
+- 활동 기간 동안 매달 정기 세션을 준비하고 진행했으며, 두 번의 시즌 스터디를 운영하며 챕터 멤버들과의 **소통과 성장**을 지속했습니다.
+- 멤버들의 프로젝트 개발을 지원하기 위해 운영진과 함께 **팀 빌딩**, 아이디어톤, 프로젝트 성과 발표 행사를 기획하고 실행했습니다.
 - 멤버들이 Google Solution Challenge에 참여할 수 있도록 아이디어 발굴부터 팀 구성, 최종 발표까지 이어지는 협업 구조를 마련했습니다.
-- 다른 GDSC 챕터들과 협력해 해커톤과 여성 학생 개발자를 위한 세션 등 커뮤니티 이벤트를 공동 주최했습니다.
+- 다른 GDSC 챕터들과 협력해 해커톤과 여성 학생 개발자를 위한 세션 등 **커뮤니티 이벤트**를 공동 주최했습니다.
 - 교내 챕터 활동을 넘어 외부 GDSC 행사에도 스태프로 참여하며 더 넓은 GDSC 커뮤니티에 기여했습니다.
 
 ### Cloud Club 8th (2025.08 - 2025.12)
-- 클라우드에 대한 자기주도 학습을 확장하기 위해 커뮤니티에 참여하고, Istio와 Terraform 스터디에 참여했습니다.
-- 동료들과 학습 내용을 공유하는 스터디 활동을 통해 함께 배우는 경험을 쌓고, 커뮤니티 행사와 컨퍼런스를 통해 클라우드에 대한 관점을 넓혔습니다.
+- 클라우드에 대한 **자기주도 학습**을 확장하기 위해 커뮤니티에 참여하고, Istio와 Terraform 스터디에 참여했습니다.
+- 동료들과 학습 내용을 공유하는 스터디 활동을 통해 **함께 배우는 경험**을 쌓고, 커뮤니티 행사와 컨퍼런스를 통해 클라우드에 대한 관점을 넓혔습니다.
 
 ---
 
@@ -66,7 +66,7 @@
 - 불필요한 서비스 의존성을 줄이고 도메인 응집도를 높이기 위해 서비스 경계와 통신 흐름을 정리했습니다.
 - 컨테이너 기동 순서, health check, 분산 서비스 간 장애를 트러블슈팅하며 배포 및 런타임 안정성을 개선했습니다.
 
-**Focus Areas:** Microservice Architecture, Asynchronous Communication, Service Reliability, Cloud-Native Deployment  
+**Focus Areas:** Microservice Architecture, Asynchronous Communication, **Service Reliability**, Cloud-Native Deployment  
 **Tech Stack:** GKE, Kubernetes, Docker, Docker Compose, RabbitMQ, Node.js, Express, MySQL, Nginx Ingress
 
 ### [GAMO-2025/gamo_ai_api](https://github.com/GAMO-2025/gamo_ai_api)
@@ -74,7 +74,7 @@
 - Few-shot 예시와 프롬프트 지시문을 개선해 STT 기반 대화 문맥을 보존하고 의도에 맞는 응답을 생성하도록 개선했습니다.
 - LLM 응답이 JSON 형식에 맞게 생성되도록 프롬프트를 조정하고, markdown/code block 형태의 불필요한 출력물을 처리해 API 응답 안정성을 개선했습니다.
 
-**Focus Areas:** LLM API Integration, Prompt Engineering, STT Post-processing, API Reliability  
+**Focus Areas:** LLM API Integration, **Prompt Engineering**, STT Post-processing, **API Reliability**  
 **Tech Stack:** Gemini API, FastAPI, Python, MySQL, Jenkins, GCP
 
 ### [OnRamp-2026/onramp-api](https://github.com/OnRamp-2026/onramp-api)
@@ -82,7 +82,7 @@
 - GitOps, namespace 분리, Argo CD Application, NetworkPolicy를 활용해 SaaS 멀티테넌트 전환 구조를 설계했습니다.
 - Tenant별 비용, 트래픽, 품질, 인프라 상태를 확인할 수 있는 모니터링 대시보드를 구현했습니다.
 
-**Focus Areas:** AI Service Operations, Multi-Tenant Architecture, GitOps Delivery, Observability, Operational Collaboration  
+**Focus Areas:** AI Service Operations, **Multi-Tenant Architecture**, GitOps Delivery, **Observability**, **Operational Collaboration**  
 **Tech Stack:** AWS EKS, Terraform, Kubernetes, Argo CD, Jenkins, Prometheus, Loki
 
 ---
