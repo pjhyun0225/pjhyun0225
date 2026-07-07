@@ -1,19 +1,19 @@
-# Hi there, I'm Jihyun Park 👋
+# 안녕하세요, 박지현입니다 👋
 
-English | [한국어](./README.ko.md)
+[English](./README.md) | 한국어
 
 ### Aspiring Software Engineer
 
-I am interested in building practical services with **backend, cloud, and AI technologies**. Through team projects, I have worked on Kubernetes-based MSA, LLM-powered APIs, and RAG service operations while focusing on reliability, troubleshooting, and user-oriented implementation.
+저는 **백엔드, 클라우드, AI 기술**을 바탕으로 실용적인 서비스를 만드는 데 관심이 있습니다. Kubernetes 기반 MSA, LLM 기반 API, RAG 서비스 운영 프로젝트를 경험하며 안정성, 트러블슈팅, 사용자 중심 구현에 집중해왔습니다.
 
 ---
 
 ## 📚 Education
 
-- **Sungshin Women's University**
-  B.S. in Computer Engineering
-- **SKALA (SK AX) – SKALA Cloud Program** (2025.12.29 – 2026.06.25)
-  Completed project-based training across cloud-native architecture, Kubernetes, DevOps, web service development, database optimization, and generative AI service design, including RAG pipelines and AI agents.
+- **성신여자대학교**
+  컴퓨터공학과 학사
+- **SKALA (SK AX) - SKALA Cloud Program** (2025.12.29 - 2026.06.25)
+  클라우드 네이티브 아키텍처, Kubernetes, DevOps, 웹 서비스 개발, 데이터베이스 최적화, RAG Pipeline과 AI Agent를 포함한 생성형 AI 서비스 설계를 프로젝트 기반으로 학습했습니다.
 
 ---
 
@@ -34,53 +34,53 @@ I am interested in building practical services with **backend, cloud, and AI tec
 ## 🏃‍♀️‍➡️ Organizations
 
 ### GDSC SWU Core Member (2022 - 2023, Education Team)
-- Supported chapter operations as part of the education team and assisted the lead in running regular member programs.
-- Prepared and delivered technical education sessions for monthly chapter meetings.
-  (Included technical onboarding topics such as Google technologies, TensorFlow basics, GitHub usage, and competition preparation.)
+- 교육팀 소속 운영진으로서 챕터 운영을 지원하고, 리드와 함께 정기 멤버 프로그램 운영을 도왔습니다.
+- 매달 정기 세션에서 기술 교육 세션을 준비하고 발표했습니다.
+  (Google 기술 소개, TensorFlow 기초 사용법, GitHub 사용법, 대회 준비를 위한 기술 온보딩 등을 포함)
 
 ### GDSC SWU Lead (2023 - 2024)
-- Prepared and hosted monthly chapter sessions throughout the term, while running two seasonal study programs to maintain member engagement and growth.
-- Planned and executed team building, ideathons, and project showcase events with the core team to support members' project development.
-- Supported members' Google Solution Challenge journey by organizing collaboration structures from idea discovery to team formation and final presentations.
-- Co-hosted community events with other GDSC chapters, including hackathons and sessions for women student developers.
-- Contributed to the broader GDSC community by participating as staff in external chapter events beyond the university.
+- 활동 기간 동안 매달 정기 세션을 준비하고 진행했으며, 두 번의 시즌 스터디를 운영하며 챕터 멤버들과의 소통과 성장을 지속했습니다.
+- 멤버들의 프로젝트 개발을 지원하기 위해 운영진과 함께 팀 빌딩, 아이디어톤, 프로젝트 성과 발표 행사를 기획하고 실행했습니다.
+- 멤버들이 Google Solution Challenge에 참여할 수 있도록 아이디어 발굴부터 팀 구성, 최종 발표까지 이어지는 협업 구조를 마련했습니다.
+- 다른 GDSC 챕터들과 협력해 해커톤과 여성 학생 개발자를 위한 세션 등 커뮤니티 이벤트를 공동 주최했습니다.
+- 교내 챕터 활동을 넘어 외부 GDSC 행사에도 스태프로 참여하며 더 넓은 GDSC 커뮤니티에 기여했습니다.
 
 ### Cloud Club 8th (2025.08 - 2025.12)
-- Joined a cloud community to deepen self-directed learning and participated in Istio and Terraform study groups.
-- Practiced shared learning by exchanging study insights with peers and expanded cloud perspectives through community events and conferences.
+- 클라우드에 대한 자기주도 학습을 확장하기 위해 커뮤니티에 참여하고, Istio와 Terraform 스터디에 참여했습니다.
+- 동료들과 학습 내용을 공유하는 스터디 활동을 통해 함께 배우는 경험을 쌓고, 커뮤니티 행사와 컨퍼런스를 통해 클라우드에 대한 관점을 넓혔습니다.
 
 ---
 
 ## 🏆 Achievements
 
-- **2023 Software Competition - Silver Prize:** Developed a university community platform [UniUnity](https://github.com/UniUnity-sungshin/UniUnity).
-- **2025 MADE IN SUNGSHIN - Grand Prize:** Developed a family community platform [GAMO-2025](https://github.com/GAMO-2025).
+- **2023 Software Competition - Silver Prize:** 대학 상권 커뮤니티 플랫폼 [UniUnity](https://github.com/UniUnity-sungshin/UniUnity)를 개발했습니다.
+- **2025 MADE IN SUNGSHIN - Grand Prize:** 시니어 맞춤 가족 소통 서비스 [GAMO-2025](https://github.com/GAMO-2025)를 개발했습니다.
 
 ---
 
 ## 💼 Key Projects
 
 ### [Uniunity-msa/k8s](https://github.com/Uniunity-msa/k8s)
-- **Cloud-Native MSA Transformation:** Implemented GKE-based Kubernetes architecture for a Node.js microservice platform.
-- Developed partner-service and structured service-to-service communication using RabbitMQ-based asynchronous messaging.
-- Refined service boundaries and communication flows to reduce unnecessary dependencies and improve domain cohesion.
-- Improved deployment and runtime reliability by troubleshooting container startup order, health checks, and distributed service failures.
+- **Cloud-Native MSA Transformation:** Node.js 기반 마이크로서비스 플랫폼을 GKE 기반 Kubernetes 환경에서 운영할 수 있도록 구현했습니다.
+- partner-service를 개발하고 RabbitMQ 기반 비동기 메시징을 활용해 서비스 간 통신 구조를 구성했습니다.
+- 불필요한 서비스 의존성을 줄이고 도메인 응집도를 높이기 위해 서비스 경계와 통신 흐름을 정리했습니다.
+- 컨테이너 기동 순서, health check, 분산 서비스 간 장애를 트러블슈팅하며 배포 및 런타임 안정성을 개선했습니다.
 
 **Focus Areas:** Microservice Architecture, Asynchronous Communication, Service Reliability, Cloud-Native Deployment  
 **Tech Stack:** GKE, Kubernetes, Docker, Docker Compose, RabbitMQ, Node.js, Express, MySQL, Nginx Ingress
 
 ### [GAMO-2025/gamo_ai_api](https://github.com/GAMO-2025/gamo_ai_api)
-- **LLM-based API Development:** Built keyword extraction, topic recommendation, and letter correction APIs using Gemini.
-- Improved prompt quality with few-shot examples to preserve STT context and generate intent-aligned responses.
-- Improved API reliability by guiding LLM outputs into JSON format and handling markdown/code-block artifacts.
+- **LLM-based API Development:** Gemini를 활용해 키워드 추출, 통화 주제 추천, 편지 교정 API를 구현했습니다.
+- Few-shot 예시와 프롬프트 지시문을 개선해 STT 기반 대화 문맥을 보존하고 의도에 맞는 응답을 생성하도록 개선했습니다.
+- LLM 응답이 JSON 형식에 맞게 생성되도록 프롬프트를 조정하고, markdown/code block 형태의 불필요한 출력물을 처리해 API 응답 안정성을 개선했습니다.
 
 **Focus Areas:** LLM API Integration, Prompt Engineering, STT Post-processing, API Reliability  
 **Tech Stack:** Gemini API, FastAPI, Python, MySQL, Jenkins, GCP
 
 ### [OnRamp-2026/onramp-api](https://github.com/OnRamp-2026/onramp-api)
-- **AI Service Platform:** Built AWS EKS operating environment for a RAG-based AI onboarding service.
-- Designed SaaS multi-tenant transition with GitOps, namespace isolation, Argo CD Applications, and NetworkPolicy.
-- Implemented tenant-level monitoring dashboard for cost, traffic, quality, and infrastructure health.
+- **AI Service Platform:** RAG 기반 AI 온보딩 서비스를 위한 AWS EKS 운영 환경을 구축했습니다.
+- GitOps, namespace 분리, Argo CD Application, NetworkPolicy를 활용해 SaaS 멀티테넌트 전환 구조를 설계했습니다.
+- Tenant별 비용, 트래픽, 품질, 인프라 상태를 확인할 수 있는 모니터링 대시보드를 구현했습니다.
 
 **Focus Areas:** AI Service Operations, Multi-Tenant Architecture, GitOps Delivery, Observability, Operational Collaboration  
 **Tech Stack:** AWS EKS, Terraform, Kubernetes, Argo CD, Jenkins, Prometheus, Loki
